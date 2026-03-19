@@ -1,0 +1,47 @@
+1. do you write code every day?
+
+2.does the api return json?
+
+3.does developers use git? 
+
+4.does she fix the bugs?
+
+5.does the system process data?
+
+6.do i eat?
+
+7.do you like bean with flour?
+
+8.do you like crash in dad Pedro car? Dad
+
+9. does players use keyboard?
+
+10.do i have fifty cards of Pokémon?
+
+Negativos
+
+1.we don't tested the system.
+
+2.the server don't restarted
+
+3.she don't fixed the bug.
+
+4. they don't pushed the code
+
+5.the API dont't responded 
+
+pergunta
+
+1.does developers use docky?
+
+2.do the server runs Linux?
+
+3.does she writes documentation?
+
+4.do they deploy applications?
+
+5.do the system stores data?
+
+My rotine of programation starts 19:00 PM and end 22:00 PM, every days of the week, I start programming in finally of two thousand twenty five, unfortunately i don't promamming out of time
+
+
