@@ -1,0 +1,11 @@
+1.O que os desenvolvedores precisam corrigir?
+Os programadores devem corrigir problemas de segurança antes de publicar.
+
+2.Por que o banco de dados deve ser otimizado?
+Para o sistema não ficar lento.
+
+3.O que poderia ser melhorado?
+a interface, para os usuários navegarem de forma mais fácil.
+
+4.O que precisa ser incluído na documentação?
+A instalações de instruções e exemplos de API 
